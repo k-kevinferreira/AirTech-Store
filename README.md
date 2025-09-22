@@ -6,7 +6,7 @@ Uma vitrine moderna e responsiva para produtos Apple
 
 O AirTech Store é uma página web estática que simula uma loja virtual elegante, focada em produtos premium da Apple. O projeto foi desenvolvido com um layout limpo, totalmente responsivo e com elementos interativos para proporcionar uma excelente experiência ao usuário.
 
-Link do Projeto: https://github.com/k-kevinferreira/AirTech-Store
+Link do Projeto: https://k-kevinferreira.github.io/AirTech-Store
 
 ## ✨ Funcionalidades
 
