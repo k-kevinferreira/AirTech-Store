@@ -1,55 +1,59 @@
-AirTech Store
+## 📱 AirTech Store
 
-Uma página moderna e responsiva de vitrine de produtos para a AirTech Store, destacando dispositivos premium da Apple. O projeto demonstra um layout limpo, carrossel de produtos e uma interface elegante construída com HTML, CSS e JavaScript.
+Uma vitrine moderna e responsiva para produtos Apple
 
-📖 Introdução
+## 📖 Introdução
 
-O AirTech Store é um projeto estático de página web que simula uma loja virtual. Ele apresenta os últimos lançamentos da Apple com imagens chamativas, descrições detalhadas e navegação interativa.
+O AirTech Store é uma página web estática que simula uma loja virtual elegante, focada em produtos premium da Apple. O projeto foi desenvolvido com um layout limpo, totalmente responsivo e com elementos interativos para proporcionar uma excelente experiência ao usuário.
 
-✨ Funcionalidades
+Link do Projeto: https://github.com/k-kevinferreira/AirTech-Store
 
-🖼️ Layout responsivo para desktop e dispositivos móveis.
+## ✨ Funcionalidades
 
-⏩ Carrossel de produtos com botões de avançar/voltar.
+🖼️ Layout Responsivo: Adaptado para desktop, tablet e dispositivos móveis.
 
-⚡ Produtos em destaque (Apple Watch, AirPods Max, Vision Pro).
+⏩ Carrossel Interativo: Navegação por produtos com botões de avançar e voltar.
 
-🎨 Design moderno utilizando as fontes Montserrat e Orbitron.
+⚡ Produtos em Destaque: Vitrine para Apple Watch, AirPods Max e Apple Vision Pro.
 
-📌 Menu simples e direto: Home, Produtos, Contato.
+🎨 Design Moderno: Utiliza as fontes Montserrat e Orbitron para uma estética premium.
+
+📌 Navegação Simplificada: Menu intuitivo com as seções: Home, Produtos e Contato.
+
+## 🚀 Como Utilizar
+
+Navegação no Carrossel:
+
+Utilize as setas de navegação para visualizar os diferentes produtos em destaque.
+
+Interação com Produtos:
+
+Clique no botão "Saiba Mais" de cada produto para visualizar detalhes (funcionalidade que pode ser expandida com JavaScript).
+
+Personalização:
+
+Para personalizar o design, edite o arquivo src/css/estilo.css.
+
+Para adicionar interatividade, animações ou pop-ups, edite o arquivo src/js/scripts.js.
+
+## 📦 Dependências
+
+O projeto utiliza apenas tecnologias web padrão:
+
+Google Fonts: Montserrat e Orbitron
+
+HTML5
+
+CSS3
+
+JavaScript Vanilla (sem frameworks)
 
 
-🚀 Uso
+## 👥 Desenvolvedor
 
-Utilize as setas para navegar entre os produtos.
+Kevin Ferreira - GitHub
 
-Clique em Saiba mais para visualizar detalhes de cada produto (pode ser expandido no JavaScript).
+## 📜 Licença
 
-Edite src/css/estilo.css para personalizar o design.
+Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para detalhes.
 
-Ajuste src/js/scripts.js para adicionar mais interatividade (animações, pop-ups, etc.).
-
-
-📦 Dependências
-
-Google Fonts: Montserrat & Orbitron.
-
-Tecnologias padrão da web: HTML5, CSS3 e JavaScript Vanilla.
-
-
-🔧 Configuração
-
-Coloque as imagens dos produtos em src/assent/.
-
-Edite index.html para atualizar informações dos produtos.
-
-Ajuste scripts.js para lógica do carrossel ou novos recursos.
-
-
-👥 Contribuidores
-
-Kevin Ferreira – Desenvolvedor
-
-📜 Licença
-
-Este projeto está licenciado sob a licença MIT. Você pode usar, modificar e distribuir livremente.
